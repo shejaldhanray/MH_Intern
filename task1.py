@@ -2,7 +2,6 @@ import tkinter as tk
 import tkinter.messagebox
 from tkinter.constants import SUNKEN
 
-window=tk.Tk()
 window.title('Claculator')
 frame=tk.Frame(master=window,bg="pink",padx=10)
 frame.pack()
